@@ -16,6 +16,7 @@ This Repository contains the  Leetcode questions which I solve .
 | ------- |
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshit2026-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -32,4 +33,12 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
