@@ -20,11 +20,13 @@ This Repository contains the  Leetcode questions which I solve .
 | [0136-single-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshit2026-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +43,8 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
