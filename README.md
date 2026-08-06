@@ -22,6 +22,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Harshit2026-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -30,6 +31,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -42,6 +44,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,9 +62,11 @@ This Repository contains the  Leetcode questions which I solve .
 | ------- |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
