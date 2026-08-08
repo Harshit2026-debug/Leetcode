@@ -12,7 +12,7 @@
 class Solution {
 public:
     void postorder(TreeNode* root, vector<int>& result) {
-        if(root == nullptr) return;
+        if(root==nullptr) return;
 
         postorder(root->left,result);
         postorder(root->right,result);
@@ -21,8 +21,9 @@ public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> result;
 
-        postorder(root, result);
+        postorder(root,result);
 
-        return result; 
+        return result;
+        
     }
 };
