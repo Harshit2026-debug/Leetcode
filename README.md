@@ -19,6 +19,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit2026-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -49,6 +51,7 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +69,7 @@ This Repository contains the  Leetcode questions which I solve .
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,4 +99,12 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshit2026-debug/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
