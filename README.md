@@ -44,6 +44,7 @@ This Repository contains the  Leetcode questions which I solve .
 | ------- |
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Harshit2026-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -107,4 +108,8 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Harshit2026-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
