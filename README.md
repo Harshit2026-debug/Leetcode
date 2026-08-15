@@ -17,6 +17,7 @@ This Repository contains the  Leetcode questions which I solve .
 | ------- |
 | [0001-two-sum](https://github.com/Harshit2026-debug/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit2026-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0136-single-number) |
@@ -68,6 +69,7 @@ This Repository contains the  Leetcode questions which I solve .
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit2026-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
