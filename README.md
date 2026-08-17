@@ -21,6 +21,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit2026-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Harshit2026-debug/Leetcode/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshit2026-debug/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0229-majority-element-ii) |
@@ -73,6 +74,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit2026-debug/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit2026-debug/Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
