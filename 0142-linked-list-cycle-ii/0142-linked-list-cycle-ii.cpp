@@ -23,8 +23,10 @@ public:
                     fast=fast->next;
                 }
                 return slow;
+                
             }
         }
+        
         return nullptr;
         
     }
