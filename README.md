@@ -36,6 +36,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0485-max-consecutive-ones](https://github.com/Harshit2026-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit2026-debug/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Harshit2026-debug/Leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Harshit2026-debug/Leetcode/tree/master/0860-lemonade-change) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit2026-debug/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshit2026-debug/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Harshit2026-debug/Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
