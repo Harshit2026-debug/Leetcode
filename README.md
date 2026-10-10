@@ -115,6 +115,7 @@ This Repository contains the  Leetcode questions which I solve .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshit2026-debug/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Harshit2026-debug/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit2026-debug/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit2026-debug/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -156,6 +157,7 @@ This Repository contains the  Leetcode questions which I solve .
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshit2026-debug/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Harshit2026-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
@@ -203,4 +205,8 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshit2026-debug/Leetcode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshit2026-debug/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
