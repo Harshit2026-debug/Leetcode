@@ -34,6 +34,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Harshit2026-debug/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Harshit2026-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Harshit2026-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit2026-debug/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Harshit2026-debug/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Harshit2026-debug/Leetcode/tree/master/0860-lemonade-change) |
@@ -75,6 +76,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0268-missing-number](https://github.com/Harshit2026-debug/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit2026-debug/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit2026-debug/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Harshit2026-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ This Repository contains the  Leetcode questions which I solve .
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit2026-debug/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit2026-debug/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Harshit2026-debug/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Harshit2026-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -209,4 +212,8 @@ This Repository contains the  Leetcode questions which I solve .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit2026-debug/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshit2026-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
